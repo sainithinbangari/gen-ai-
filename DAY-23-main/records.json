@@ -1,0 +1,194 @@
+﻿[
+  {
+    "a": {
+      "identity": 0,
+      "labels": [
+        "CSE"
+      ],
+      "properties": {
+        "name": "X1"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:0"
+    }
+  },
+  {
+    "a": {
+      "identity": 1,
+      "labels": [
+        "CSE"
+      ],
+      "properties": {
+        "name": "X2"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:1"
+    }
+  },
+  {
+    "a": {
+      "identity": 2,
+      "labels": [
+        "CSE"
+      ],
+      "properties": {
+        "name": "X3"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:2"
+    }
+  },
+  {
+    "a": {
+      "identity": 3,
+      "labels": [
+        "HEAD"
+      ],
+      "properties": {
+        "name": "DEAN"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:3"
+    }
+  },
+  {
+    "a": {
+      "identity": 4,
+      "labels": [
+        "CSE_BRANCH"
+      ],
+      "properties": {
+        "name": "CSE"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:4"
+    }
+  },
+  {
+    "a": {
+      "identity": 5,
+      "labels": [
+        "ECE"
+      ],
+      "properties": {
+        "name": "Y3"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:5"
+    }
+  },
+  {
+    "a": {
+      "identity": 6,
+      "labels": [
+        "CSE_BRANCH"
+      ],
+      "properties": {
+        "name": "EEE"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:6"
+    }
+  },
+  {
+    "a": {
+      "identity": 7,
+      "labels": [
+        "HEAD"
+      ],
+      "properties": {
+        "name": "HOD"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:7"
+    }
+  },
+  {
+    "a": {
+      "identity": 8,
+      "labels": [
+        "ECE"
+      ],
+      "properties": {
+        "name": "Y2"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:8"
+    }
+  },
+  {
+    "a": {
+      "identity": 9,
+      "labels": [
+        "ECE"
+      ],
+      "properties": {
+        "name": "Y1"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:9"
+    }
+  },
+  {
+    "a": {
+      "identity": 10,
+      "labels": [
+        "CSE_BRANCH"
+      ],
+      "properties": {
+        "name": "ECE"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:10"
+    }
+  },
+  {
+    "a": {
+      "identity": 11,
+      "labels": [
+        "EEE"
+      ],
+      "properties": {
+        "name": "Z1"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:11"
+    }
+  },
+  {
+    "a": {
+      "identity": 12,
+      "labels": [
+        "EEE"
+      ],
+      "properties": {
+        "name": "Z2"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:12"
+    }
+  },
+  {
+    "a": {
+      "identity": 13,
+      "labels": [
+        "EEE"
+      ],
+      "properties": {
+        "name": "Z3"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:13"
+    }
+  },
+  {
+    "a": {
+      "identity": 14,
+      "labels": [
+        "HEAD"
+      ],
+      "properties": {
+        "name": "DIRECTOR"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:14"
+    }
+  },
+  {
+    "a": {
+      "identity": 15,
+      "labels": [
+        "STAFF"
+      ],
+      "properties": {
+        "name": "TEACHERS"
+      },
+      "elementId": "4:4abb9c5a-7b06-433e-8d2c-aa2415aaa25a:15"
+    }
+  }
+]
